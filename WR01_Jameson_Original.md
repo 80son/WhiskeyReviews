@@ -1,12 +1,12 @@
 Whiskey Review #1: Jameson Original
 =======
 
-*Distillery*: Jameson
-*Bottler*: Jameson
-*Region*: Ireland
-*ABV*: 40%
-*Age*: 4
-[*Color*](https://i.imgur.com/CIl8iNs.jpg): Tawny
+**Distillery**: Jameson  
+**Bottler**: Jameson  
+**Region**: Ireland  
+**ABV**: 40%  
+**Age**: 4  
+[**Color**](https://i.imgur.com/CIl8iNs.jpg): Tawny  
 
 ---
 Nose: Sweet with a hint of apple as well as dulce de leche.
