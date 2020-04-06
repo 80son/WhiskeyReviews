@@ -20,11 +20,11 @@ Conclusion: Simple - a start.  Perhaps something to come back to now that the st
 Final Score: 68.
 
 Scoring Legend:  
-*96-100: The perfect dram, nectar of the gods.  
-*90-95: Near perfect, there is something truly special about this whisky.  
-*85-89: Amazing, will always try to keep a bottle of this in my collection (if feasible).  
-*80-84: Very Good, maybe only one minor nitpick about the whisky keeping it here.  
-*75-79: Good, quite enjoyable to drink.  
-*70-74: Solid, wouldn't go out of my way to get it.  
-*60-69: Meh, still drinkable.  
-*Below 59: If you have a bottle of this, start cooking with it instead.   
+* 96-100: The perfect dram, nectar of the gods.  
+* 90-95: Near perfect, there is something truly special about this whisky.  
+* 85-89: Amazing, will always try to keep a bottle of this in my collection (if feasible).  
+* 80-84: Very Good, maybe only one minor nitpick about the whisky keeping it here.  
+* 75-79: Good, quite enjoyable to drink.  
+* 70-74: Solid, wouldn't go out of my way to get it.  
+* 60-69: Meh, still drinkable.  
+* Below 59: If you have a bottle of this, start cooking with it instead.   
